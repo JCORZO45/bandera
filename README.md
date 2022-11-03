@@ -1,0 +1,2 @@
+# bandera
+tkinter bandera 
